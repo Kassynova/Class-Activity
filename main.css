@@ -65,10 +65,12 @@ input{
    .about h2 span{
     font-size: 28px !important;
    color: #1DE2D1 !important;
-  
    }
    .about{
    margin-right: 100px !important;
+   }
+    .image{
+    display: none;
    }
     .header{
         background: url(./girl.jpg);
